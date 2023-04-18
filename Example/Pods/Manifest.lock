@@ -1,0 +1,16 @@
+PODS:
+  - MyHeaders (0.1.0)
+
+DEPENDENCIES:
+  - MyHeaders (from `../`)
+
+EXTERNAL SOURCES:
+  MyHeaders:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyHeaders: 8186b04a58e5500746a24982554e55a1622d7792
+
+PODFILE CHECKSUM: e0c9f2607b303e2b54e7d197d83951d6d7860b57
+
+COCOAPODS: 1.11.3
